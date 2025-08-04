@@ -1,0 +1,10 @@
+i) Create an Express server instance and store it in a variable named 'server' inside "index.js" file.
+ii) Implement a GET route at the root ('/') endpoint.
+iii) Configure the GET route to respond with the motivational message "Be a Coding Ninja."
+
+Notes:
+
+    You have the flexibility to run the server at any port.
+    Ensure to install the necessary dependencies and start the server to test the implementation.
+    Adhere to the correct syntax and follow Express conventions for creating the server and defining routes.
+
