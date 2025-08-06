@@ -1,0 +1,11 @@
+i) Implement the function "setCustomHeader" to set a custom header on the provided HTTP response object.
+ii) The function should take in the response object, along with the name and value of the header.
+iii) Additionally, log a success message with the header name and value after setting the header.
+
+Note:
+Remember to access the appropriate properties or methods of the HTTP response object to set the custom header. Pay attention to the format of the success message and ensure that it includes the correct header name and value.
+
+
+Expected Output:
+
+Upon execution, the function should set the custom header on the response object and log a success message in the format "{headerName} with value {headerValue} has been set successfully!".
