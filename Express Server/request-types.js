@@ -18,6 +18,6 @@ server.delete("/", (req, res) => {
   res.send("This is a DELETE request.");
 });
 
-server.listen(3100, ()=>{
-    console.log(`Listening on localhost:3100`);
-})
+server.listen(3100, () => {
+  console.log(`Listening on localhost:3100`);
+});
