@@ -1,0 +1,10 @@
+Implement the "logRequest" middleware function to achieve the following functionalities:
+
+    Ensure the middleware is executed for every GET request at the root path ("/").
+    Log the request method and path separately to the console.
+
+
+Notes:
+Access the request method and path information using the 'req' object's 'method' and 'path' attributes.
+
+
