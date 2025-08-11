@@ -9,4 +9,4 @@ server.get("/", (req, res) => {
 // Serve the static files in the public folder
 server.use(express.static("public"));
 
-server.listen(4000);
+server.listen(4000, () => console.log(`Server listening on localhost:4000`));
